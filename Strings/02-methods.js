@@ -1,5 +1,5 @@
 // ==========================================
-// JAVASCRIPT STRING METHODS
+// JAVASCRIPT STRING METHODS - AI WRITEN
 // ==========================================
 
 // 1. length
